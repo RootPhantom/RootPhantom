@@ -1,90 +1,317 @@
 <div align="center">
 
-# 👋 Hi, I'm Anurag
+# 👋 Hi, I'm Anurag Singh
 
 ### `CSE Student` • `Software Engineer in the Making` • `DSA Enthusiast`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Building+Software+%F0%9F%9A%80;Solving+DSA+Problems+%F0%9F%A7%A0;Learning+System+Design+%E2%9A%99%EF%B8%8F;Turning+Ideas+into+Projects+%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+Software+%F0%9F%9A%80;Solving+DSA+Problems+%F0%9F%A7%A0;Learning+System+Design+%E2%9A%99%EF%B8%8F;Building+AI+Projects+%F0%9F%A4%96;Turning+Ideas+into+Reality+%F0%9F%92%BB" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=RootPhantom&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 🧑‍💻 `$ whoami`
+## 🖥️ `$ whoami`
 
 ```text
-Anurag Singh
-├── 🎓 B.Tech CSE
-├── 💻 Software Development
-├── 🧠 Data Structures & Algorithms
-├── ⚙️ Backend Development
-├── 🤖 AI / GenAI
-├── 🏆 Hackathons
-└── 🚀 Building & Learning
-
-## 🛠️ Tech Stack
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Backend & Database
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+┌───────────────────────────────────────────────┐
+│                 ROOTPHANTOM                   │
+├───────────────────────────────────────────────┤
+│ 👨‍💻 Name       : Anurag Singh                 │
+│ 🎓 Education   : B.Tech CSE                   │
+│ 💻 Focus       : Software Engineering         │
+│ 🧠 Learning    : DSA • System Design          │
+│ ⚙️ Backend     : Python • FastAPI             │
+│ 🗄️ Database    : PostgreSQL • SQLite           │
+│ 🤖 Interests   : AI • GenAI • Computer Science│
+│ 🏆 Challenge   : Hackathons                   │
+│ 🚀 Status      : Building & Learning          │
+└───────────────────────────────────────────────┘
+```
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
 
-### 🤖 VIDHYA — AI Study Companion
+I'm a **Computer Science & Engineering student** focused on becoming a
+strong **Software Engineer**.
 
-An AI-powered study assistant using RAG to provide
-curriculum-focused educational responses.
+I enjoy solving programming problems, understanding how systems work,
+and building practical projects that solve real-world problems.
 
-**Tech:** Python • FastAPI • FAISS • SQLite • Ollama • LLMs
+* 🔭 Currently working on **DSA & Software Development**
+* 🧠 Practicing **Data Structures & Algorithms**
+* ⚙️ Learning **Backend Development & System Design**
+* 🤖 Exploring **AI / Generative AI**
+* 🏆 Participating in **Hackathons**
+* 🚀 Building projects to learn by doing
+* 💡 Interested in scalable and efficient software systems
 
 ---
 
-### 🌾 Smart Digital Procurement Platform
+## ⚡ Current Focus
 
-A platform designed to reduce farmer waiting times by providing
-digital registration, slot booking, queue management and
-procurement-status tracking.
+```text
+DSA & Problem Solving     ████████████████████░░  90%
+Backend Development       ████████████████░░░░░░  75%
+System Design             ████████████░░░░░░░░░░  60%
+AI / GenAI                ████████████░░░░░░░░░░  60%
+Open Source               ██████████░░░░░░░░░░░░  50%
+```
+
+### 🎯 Goal
+
+> Become a strong Software Engineer by mastering **DSA, development,
+> system design and real-world engineering.**
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 VIDHYA — AI Study Companion
+
+An AI-powered personal study companion designed to provide
+curriculum-focused educational assistance.
+
+### Architecture
+
+```text
+User
+ │
+ ▼
+Frontend
+ │
+ ▼
+FastAPI Backend
+ │
+ ├── Curriculum Filter
+ ├── Keyword Gate
+ ├── FAISS Search
+ ├── Paragraph Reranking
+ └── Token Budget Control
+ │
+ ▼
+LLM
+ │
+ ├── Ollama
+ └── Cloud LLM Fallback
+```
+
+**Tech:** Python • FastAPI • FAISS • SQLite • Sentence Transformers • LLMs
+
+---
+
+## 🌾 Smart Digital Procurement Platform
+
+A digital procurement platform designed to reduce farmer waiting time
+and improve transparency during agricultural procurement.
+
+### Core Features
+
+* 📝 Farmer registration
+* 🎟️ Slot booking
+* 🔢 Digital queue management
+* ⏱️ Estimated waiting time
+* 📱 Notifications
+* ⚖️ Procurement workflow
+* 💰 Payment status tracking
+* 📊 Centre-level analytics
 
 **Tech:** FastAPI • PostgreSQL • REST API • Queue Management
 
 ---
 
-### 🛒 Digital Shop — WhatsApp Bot
+## 🛒 Digital Shop — WhatsApp Bot
 
-A WhatsApp-based digital shopping assistant using the
-WhatsApp Business API and FastAPI.
+A WhatsApp-based shopping assistant built using the
+WhatsApp Business API.
+
+### Features
+
+* 💬 WhatsApp-based interaction
+* 🛍️ Product browsing
+* 🧾 Order processing
+* 🔔 Webhook-based messaging
+* ⚡ FastAPI backend
 
 **Tech:** Python • FastAPI • WhatsApp Business API • Webhooks
 
 ---
 
-## 🧠 Currently Learning
+# 🧠 DSA Journey
 
 ```text
-DSA
- ├── Arrays
- ├── Linked Lists
- ├── Stacks & Queues
- ├── Trees
- ├── Recursion
- ├── Backtracking
- └── Algorithms
+                    DSA
+                     │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+     Arrays        Strings       Linked List
+       │             │             │
+       ▼             ▼             ▼
+     Stack         Queue          Trees
+       │             │             │
+       └─────────────┼─────────────┘
+                     ▼
+                Recursion
+                     │
+                     ▼
+                Backtracking
+                     │
+                     ▼
+              Advanced DSA
+```
 
-Backend
- ├── Python
- ├── FastAPI
- ├── PostgreSQL
- └── System Design
+Currently strengthening:
+
+* Arrays & Strings
+* Searching & Sorting
+* Linked Lists
+* Stack & Queue
+* Trees & BST
+* Recursion
+* Backtracking
+* Hashing
+* Graphs
+* Dynamic Programming
+
+---
+
+# 🏆 Achievements & Activities
+
+* 🏆 **Smart India Hackathon** participant
+* 🤖 **HPE Intel Unnati GenAI4GenZ** participant
+* 👨‍💻 **GeeksforGeeks Campus Mantri**
+* 🚀 Building AI and backend projects
+* 🧑‍💻 Active problem-solving & DSA practice
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RootPhantom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootPhantom&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RootPhantom&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RootPhantom&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 💻 Terminal
+
+```bash
+┌──(anurag㉿rootphantom)-[~]
+└─$ whoami
+
+Anurag
+
+┌──(anurag㉿rootphantom)-[~]
+└─$ cat mission.txt
+
+Master DSA
+Build scalable software
+Learn system design
+Build real-world projects
+Become a Software Engineer
+
+┌──(anurag㉿rootphantom)-[~]
+└─$ ./status.sh
+
+[+] Learning
+[+] Coding
+[+] Building
+[+] Solving
+[+] Improving
+
+STATUS: ONLINE 🚀
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/RootPhantom">
+<img src="https://img.shields.io/badge/GitHub-RootPhantom-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 `Code → Learn → Build → Fail → Improve → Repeat`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>

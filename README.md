@@ -1,26 +1,26 @@
-# 👋 Hi, I'm Anurag Singh
+<div align="center">
 
-### 💻 Computer Science Student | Software Engineer in the Making
+# 👋 Hi, I'm Anurag
 
-I'm a B.Tech CSE student passionate about **Software Development, DSA,
-Problem Solving, and Computer Science**.
+### `CSE Student` • `Software Engineer in the Making` • `DSA Enthusiast`
 
-I enjoy turning ideas into working projects and continuously improving
-my programming and problem-solving skills.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Building+Software+%F0%9F%9A%80;Solving+DSA+Problems+%F0%9F%A7%A0;Learning+System+Design+%E2%9A%99%EF%B8%8F;Turning+Ideas+into+Projects+%F0%9F%92%BB" />
 
----
-
-## 🧑‍💻 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Currently focused on **DSA & Software Development**
-- 🧠 Learning Data Structures, Algorithms & System Design
-- 🚀 Building practical projects and participating in hackathons
-- 🏆 Smart India Hackathon participant
-- 🤖 Interested in AI, backend development and intelligent systems
-- 🌱 Always learning something new
+</div>
 
 ---
+
+## 🧑‍💻 `$ whoami`
+
+```text
+Anurag Singh
+├── 🎓 B.Tech CSE
+├── 💻 Software Development
+├── 🧠 Data Structures & Algorithms
+├── ⚙️ Backend Development
+├── 🤖 AI / GenAI
+├── 🏆 Hackathons
+└── 🚀 Building & Learning
 
 ## 🛠️ Tech Stack
 

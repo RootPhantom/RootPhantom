@@ -102,7 +102,8 @@ const rootphantom = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rootphantom&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO"/>
 
 </div>
 

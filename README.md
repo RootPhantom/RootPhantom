@@ -1,317 +1,143 @@
-<div align="center">
-
-# 👋 Hi, I'm Anurag Singh
-
-### `CSE Student` • `Software Engineer in the Making` • `DSA Enthusiast`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+Software+%F0%9F%9A%80;Solving+DSA+Problems+%F0%9F%A7%A0;Learning+System+Design+%E2%9A%99%EF%B8%8F;Building+AI+Projects+%F0%9F%A4%96;Turning+Ideas+into+Reality+%F0%9F%92%BB" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=RootPhantom&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-## 🖥️ `$ whoami`
-
-```text
-┌───────────────────────────────────────────────┐
-│                 ROOTPHANTOM                   │
-├───────────────────────────────────────────────┤
-│ 👨‍💻 Name       : Anurag Singh                 │
-│ 🎓 Education   : B.Tech CSE                   │
-│ 💻 Focus       : Software Engineering         │
-│ 🧠 Learning    : DSA • System Design          │
-│ ⚙️ Backend     : Python • FastAPI             │
-│ 🗄️ Database    : PostgreSQL • SQLite           │
-│ 🤖 Interests   : AI • GenAI • Computer Science│
-│ 🏆 Challenge   : Hackathons                   │
-│ 🚀 Status      : Building & Learning          │
-└───────────────────────────────────────────────┘
-```
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Computer Science & Engineering student** focused on becoming a
-strong **Software Engineer**.
-
-I enjoy solving programming problems, understanding how systems work,
-and building practical projects that solve real-world problems.
-
-* 🔭 Currently working on **DSA & Software Development**
-* 🧠 Practicing **Data Structures & Algorithms**
-* ⚙️ Learning **Backend Development & System Design**
-* 🤖 Exploring **AI / Generative AI**
-* 🏆 Participating in **Hackathons**
-* 🚀 Building projects to learn by doing
-* 💡 Interested in scalable and efficient software systems
-
----
-
-## ⚡ Current Focus
-
-```text
-DSA & Problem Solving     ████████████████████░░  90%
-Backend Development       ████████████████░░░░░░  75%
-System Design             ████████████░░░░░░░░░░  60%
-AI / GenAI                ████████████░░░░░░░░░░  60%
-Open Source               ██████████░░░░░░░░░░░░  50%
-```
-
-### 🎯 Goal
-
-> Become a strong Software Engineer by mastering **DSA, development,
-> system design and real-world engineering.**
-
----
-
-# 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
-</p>
-
-### ⚙️ Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 VIDHYA — AI Study Companion
-
-An AI-powered personal study companion designed to provide
-curriculum-focused educational assistance.
-
-### Architecture
-
-```text
-User
- │
- ▼
-Frontend
- │
- ▼
-FastAPI Backend
- │
- ├── Curriculum Filter
- ├── Keyword Gate
- ├── FAISS Search
- ├── Paragraph Reranking
- └── Token Budget Control
- │
- ▼
-LLM
- │
- ├── Ollama
- └── Cloud LLM Fallback
-```
-
-**Tech:** Python • FastAPI • FAISS • SQLite • Sentence Transformers • LLMs
-
----
-
-## 🌾 Smart Digital Procurement Platform
-
-A digital procurement platform designed to reduce farmer waiting time
-and improve transparency during agricultural procurement.
-
-### Core Features
-
-* 📝 Farmer registration
-* 🎟️ Slot booking
-* 🔢 Digital queue management
-* ⏱️ Estimated waiting time
-* 📱 Notifications
-* ⚖️ Procurement workflow
-* 💰 Payment status tracking
-* 📊 Centre-level analytics
-
-**Tech:** FastAPI • PostgreSQL • REST API • Queue Management
-
----
-
-## 🛒 Digital Shop — WhatsApp Bot
-
-A WhatsApp-based shopping assistant built using the
-WhatsApp Business API.
-
-### Features
-
-* 💬 WhatsApp-based interaction
-* 🛍️ Product browsing
-* 🧾 Order processing
-* 🔔 Webhook-based messaging
-* ⚡ FastAPI backend
-
-**Tech:** Python • FastAPI • WhatsApp Business API • Webhooks
-
----
-
-# 🧠 DSA Journey
-
-```text
-                    DSA
-                     │
-       ┌─────────────┼─────────────┐
-       ▼             ▼             ▼
-     Arrays        Strings       Linked List
-       │             │             │
-       ▼             ▼             ▼
-     Stack         Queue          Trees
-       │             │             │
-       └─────────────┼─────────────┘
-                     ▼
-                Recursion
-                     │
-                     ▼
-                Backtracking
-                     │
-                     ▼
-              Advanced DSA
-```
-
-Currently strengthening:
-
-* Arrays & Strings
-* Searching & Sorting
-* Linked Lists
-* Stack & Queue
-* Trees & BST
-* Recursion
-* Backtracking
-* Hashing
-* Graphs
-* Dynamic Programming
-
----
-
-# 🏆 Achievements & Activities
-
-* 🏆 **Smart India Hackathon** participant
-* 🤖 **HPE Intel Unnati GenAI4GenZ** participant
-* 👨‍💻 **GeeksforGeeks Campus Mantri**
-* 🚀 Building AI and backend projects
-* 🧑‍💻 Active problem-solving & DSA practice
-
----
-
-# 📊 GitHub Statistics
+<!-- ═══════════════ HEADER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=ROOT%20PHANTOM&fontSize=70&fontColor=00f5ff&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE&descSize=20&descAlignY=62&descColor=c9c9ff&stroke=00f5ff&strokeWidth=1" alt="header"/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RootPhantom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootPhantom&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RootPhantom&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RootPhantom&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-# 💻 Terminal
-
-```bash
-┌──(anurag㉿rootphantom)-[~]
-└─$ whoami
-
-Anurag
-
-┌──(anurag㉿rootphantom)-[~]
-└─$ cat mission.txt
-
-Master DSA
-Build scalable software
-Learn system design
-Build real-world projects
-Become a Software Engineer
-
-┌──(anurag㉿rootphantom)-[~]
-└─$ ./status.sh
-
-[+] Learning
-[+] Coding
-[+] Building
-[+] Solving
-[+] Improving
-
-STATUS: ONLINE 🚀
-```
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/RootPhantom">
-<img src="https://img.shields.io/badge/GitHub-RootPhantom-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/rootphantom">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+Hi%2C+I'm+Root+Phantom+%F0%9F%91%BB;%3E+B.Tech+CSE+Student+%F0%9F%8E%93;%3E+Full+Stack+Developer+%F0%9F%92%BB;%3E+I+turn+coffee+into+code+%E2%98%95;%3E+Building+things+that+live+on+the+web+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rootphantom&label=Profile%20Views&color=7b2ff7&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/rootphantom?label=Followers&style=for-the-badge&logo=github&color=00f5ff&labelColor=0f0c29)
+![Stars](https://img.shields.io/github/stars/rootphantom?style=for-the-badge&logo=starship&color=f7b32b&labelColor=0f0c29)
+
+</div>
+
+---
+
+## 👾 About Me
+
+<div align="center">
+
+```js
+const rootphantom = {
+  role: "Full Stack Developer",
+  education: "B.Tech in Computer Science & Engineering",
+  location: "India 🇮🇳",
+  currentlyLearning: ["System Design", "DevOps", "Cloud", "DSA"],
+  currentlyBuilding: "Something awesome 🚀",
+  funFact: "I debug with console.log() and I'm not ashamed.",
+  lookingFor: "Internships, open-source projects & collabs"
+};
+```
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css&theme=dark" /><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux&theme=dark" /><br/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres,firebase&theme=dark" /><br/>
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,aws&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rootphantom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=7b2ff7&text_color=c9c9ff&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootphantom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&text_color=c9c9ff" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rootphantom&theme=tokyonight&hide_border=true&background=0f0c29&ring=7b2ff7&fire=00f5ff&currStreakLabel=00f5ff" />
+
+</div>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<!-- Generated automatically by .github/workflows/profile-3d.yml -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Generated automatically by .github/workflows/snake.yml -->
+<img src="./snake/github-snake-dark.svg" alt="snake animation" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rootphantom&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<!-- Replace "repo-name" with your actual repositories -->
+<a href="https://github.com/rootphantom/repo-name">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rootphantom&repo=repo-name&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=7b2ff7&text_color=c9c9ff" />
+</a>
+<a href="https://github.com/rootphantom/repo-name-2">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rootphantom&repo=repo-name-2&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=7b2ff7&text_color=c9c9ff" />
 </a>
 
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-### 💭 `Code → Learn → Build → Fail → Improve → Repeat`
+<a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-7b2ff7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-<br>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://readme-quotes.vercel.app/api?theme=tokyonight" width="60%" />
 
 </div>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" alt="footer"/>

@@ -57,12 +57,11 @@
 <div align="center">
   <img src="./assets/h-projects.svg" alt="$ ls ~/projects" width="100%" />
   <br/>
-  <!-- Replace "repo-name" with your real repository names -->https://github.com/RootPhantom/Low-Cost-Personalized-AI-Tutor-for-Rural-India.git
-  <a href="https://github.com/RootPhantom/GenAI4GenZ.git">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rootphantom&repo=repo-name&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=c9d1d9" />
+  <a href="https://github.com/RootPhantom/GenAI4GenZ">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RootPhantom&repo=GenAI4GenZ&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=c9d1d9" alt="GenAI4GenZ" />
   </a>
-  <a href="https://github.com/RootPhantom/Low-Cost-Personalized-AI-Tutor-for-Rural-India.git">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rootphantom&repo=repo-name-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=c9d1d9" />
+  <a href="https://github.com/RootPhantom/Low-Cost-Personalized-AI-Tutor-for-Rural-India">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RootPhantom&repo=Low-Cost-Personalized-AI-Tutor-for-Rural-India&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=c9d1d9" alt="Low-Cost Personalized AI Tutor for Rural India" />
   </a>
 </div>
 

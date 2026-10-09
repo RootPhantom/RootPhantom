@@ -37,6 +37,12 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,aws&theme=dark" />
 </div>
 
+<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
+<div align="center">
+  <img src="./assets/h-achievements.svg" alt="$ ls ~/achievements" width="100%" />
+  <img src="./assets/achievements.svg" alt="GitHub achievements: Pull Shark, YOLO" width="70%" />
+</div>
+
 <!-- ═══════════════ STATS ═══════════════ -->
 <div align="center">
   <img src="./assets/h-stats.svg" alt="$ ./stats.sh" width="100%" />

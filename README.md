@@ -15,16 +15,16 @@
 
 </div>
 
-<!-- ═══════════════ CONTRIBUTIONS ═══════════════ -->
-<div align="center">
-  <img src="./assets/h-contrib.svg" alt="$ ./contributions.sh" width="100%" />
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
-</div>
-
 <!-- ═══════════════ WHOAMI (hologram + neofetch) ═══════════════ -->
 <div align="center">
   <img src="./assets/h-whoami.svg" alt="$ whoami" width="100%" />
   <img src="./assets/whoami.svg" alt="whoami" width="100%" />
+</div>
+
+<!-- ═══════════════ CONTRIBUTIONS ═══════════════ -->
+<div align="center">
+  <img src="./assets/h-contrib.svg" alt="$ ./contributions.sh" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
 </div>
 
 <!-- ═══════════════ SKILLS ═══════════════ -->
@@ -32,8 +32,8 @@
   <img src="./assets/h-skills.svg" alt="$ cat skills.txt" width="100%" />
   <br/>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres,firebase&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,aws&theme=dark" />
 </div>
 
@@ -57,11 +57,11 @@
 <div align="center">
   <img src="./assets/h-projects.svg" alt="$ ls ~/projects" width="100%" />
   <br/>
-  <!-- Replace "repo-name" with your real repository names -->
-  <a href="https://github.com/rootphantom/repo-name">
+  <!-- Replace "repo-name" with your real repository names -->https://github.com/RootPhantom/Low-Cost-Personalized-AI-Tutor-for-Rural-India.git
+  <a href="https://github.com/RootPhantom/GenAI4GenZ.git">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rootphantom&repo=repo-name&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/rootphantom/repo-name-2">
+  <a href="https://github.com/RootPhantom/Low-Cost-Personalized-AI-Tutor-for-Rural-India.git">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rootphantom&repo=repo-name-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=c9d1d9" />
   </a>
 </div>
@@ -71,7 +71,7 @@
   <img src="./assets/h-connect.svg" alt="$ ./connect.sh" width="100%" />
   <br/>
   <a href="https://linkedin.com/in/anurag-singh0041"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:anuragsingh7.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <!-- ═══════════════ FOOTER ═══════════════ -->

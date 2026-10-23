@@ -38,19 +38,27 @@
 </div>
 
 <!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
+
 <div align="center">
   <img src="./assets/h-achievements.svg" alt="$ ls ~/achievements" width="100%" />
-  <img src="./assets/achievements.svg" alt="GitHub achievements: Pull Shark, YOLO" width="70%" />
-</div>
 
-<!-- ═══════════════ STATS ═══════════════ -->
-<div align="center">
-  <img src="./assets/h-stats.svg" alt="$ ./stats.sh" width="100%" />
-  <br/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rootphantom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=c9d1d9&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootphantom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=rootphantom&theme=tokyonight&hide_border=true&background=0d1117&ring=7b2ff7&fire=00f5ff&currStreakLabel=00f5ff" />
+<br/><br/>
+
+  <a href="https://github.com/RootPhantom">
+    <img
+      src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"
+      alt="GitHub Pull Shark Achievement"
+      width="100"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/RootPhantom">
+    <img
+      src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"
+      alt="GitHub YOLO Achievement"
+      width="100"
+    />
+  </a>
 </div>
 
 <!-- ═══════════════ SNAKE ═══════════════ -->
